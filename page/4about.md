@@ -9,17 +9,17 @@ type: page
 * content
 {:toc}
 
-## 关于我
+## About me
 
 
 
-## 联系我
+## Contact
 
 * GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
 * email：
 * [Facebook]()
 
-## 关于本站
+## About the site
 
 **若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
@@ -32,8 +32,6 @@ type: page
 *2017.2.28*
 
 - `[^]` 修复目录滚动 bug [#22](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/22), [#48](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/48)
-
-## 友情链接
 
 
 ## Comments
