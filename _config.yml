@@ -7,7 +7,7 @@
 
 # Site settings
 title: PiiPig
-brief-intro: 
+brief-intro: Learn what you want
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piipig.github.io" # the base hostname & protocol for your site
 
