@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "rm後還是有機會的"
-date:   2018-04-02 18:31: +0800
+date:   2018-04-02 18:16:31 +0800
 categories: linux update
 ---
 
@@ -44,9 +44,9 @@ sudo extundelete /dev/sda1 --inode indoenumber
 ```
 sudo extundelete /dev/sda1 --restore-file filepath
 ```
-<font color="Crimson">Notice: </font> - -restore-file 之後接的檔案路徑是從裝置掛載點算起，而不是檔案的絕對路徑 
+<font color="Crimson">Notice: </font> --restore-file 之後接的檔案路徑是從裝置掛載點算起，而不是檔案的絕對路徑 
 
-如果是要救援整個資料夾的話只要把最後救援的指令的- -restore-file改成 - -restore-director
+如果是要救援整個資料夾的話只要把最後救援的指令的--restore-file改成 --restore-director
 ```
 sudo extundelete /dev/sda1 --restore-director dirPath
-
+```
